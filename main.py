@@ -1,12 +1,15 @@
 import fire
+from pprint import pprint
+
+from lib.config import config
 
 
-def hello(name):
-    return 'Hello {name}!'.format(name=name)
+def print_config():
+    pprint(config)
 
 
 def main():
-    fire.Fire(hello)
+    fire.Fire()
 
 
 if __name__ == '__main__':
