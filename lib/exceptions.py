@@ -1,0 +1,2 @@
+class FormLinkNotFoundError(Exception):
+    pass

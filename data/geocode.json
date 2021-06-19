@@ -1,0 +1,1274 @@
+{
+   "653": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, ул. Свердлова",
+                  "results": "10",
+                  "found": "2"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "street",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица Свердлова",
+                           "kind": "street",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица Свердлова",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица Свердлова"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица Свердлова",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица Свердлова"
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица Свердлова",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.613572 56.63007",
+                           "upperCorner": "60.617363 56.632481"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.615504 56.631313"
+                     }
+                  }
+               },
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "street",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица Якова Свердлова",
+                           "kind": "street",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица Якова Свердлова",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица Якова Свердлова"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица Якова Свердлова",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица Якова Свердлова"
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица Якова Свердлова",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.603727 56.847784",
+                           "upperCorner": "60.609063 56.856466"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.60538 56.85181"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   },
+   "36": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, ул. Вайнера, д. 2 /   ул. Антона Валека,   д. 11",
+                  "results": "10",
+                  "found": "2"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "exact",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица Антона Валека, 11",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица Антона Валека, 11",
+                              "postal_code": "620014",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица Антона Валека"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "11"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица Антона Валека, 11",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица Антона Валека",
+                                             "Premise": {
+                                                "PremiseNumber": "11",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620014"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица Антона Валека, 11",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.589515 56.836702",
+                           "upperCorner": "60.597726 56.841202"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.593621 56.838952"
+                     }
+                  }
+               },
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "exact",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица Вайнера, 11",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица Вайнера, 11",
+                              "postal_code": "620014",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица Вайнера"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "11"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица Вайнера, 11",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица Вайнера",
+                                             "Premise": {
+                                                "PremiseNumber": "11",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620014"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица Вайнера, 11",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.592309 56.830807",
+                           "upperCorner": "60.60052 56.835308"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.596414 56.833058"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   },
+   "405": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, пр. Ленина, д. 50",
+                  "results": "10",
+                  "found": "1"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "exact",
+                           "text": "Россия, Свердловская область, Екатеринбург, проспект Ленина, 50",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, проспект Ленина, 50",
+                              "postal_code": "620075",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "проспект Ленина"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "50"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, проспект Ленина, 50",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "проспект Ленина",
+                                             "Premise": {
+                                                "PremiseNumber": "50",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620075"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "проспект Ленина, 50",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.617857 56.837716",
+                           "upperCorner": "60.626068 56.842216"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.621963 56.839966"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   },
+   "56": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, ул. Вайнера, д. 64   (во дворе)",
+                  "results": "10",
+                  "found": "1"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "number",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица Вайнера, 64А",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица Вайнера, 64А",
+                              "postal_code": "620014",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица Вайнера"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "64А"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица Вайнера, 64А",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица Вайнера",
+                                             "Premise": {
+                                                "PremiseNumber": "64А",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620014"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица Вайнера, 64А",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.593306 56.825577",
+                           "upperCorner": "60.601517 56.830078"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.597412 56.827828"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   },
+   "86": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, ул. 8 Марта, д. 16",
+                  "results": "10",
+                  "found": "1"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "exact",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица 8 Марта, 16",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица 8 Марта, 16",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица 8 Марта"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "16"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица 8 Марта, 16",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица 8 Марта",
+                                             "Premise": {
+                                                "PremiseNumber": "16"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица 8 Марта, 16",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.594384 56.829817",
+                           "upperCorner": "60.602595 56.834318"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.59849 56.832068"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   },
+   "417": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, пр. Ленина, д. 69",
+                  "results": "10",
+                  "found": "1"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "number",
+                           "text": "Россия, Свердловская область, Екатеринбург, проспект Ленина, 69к1",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, проспект Ленина, 69к1",
+                              "postal_code": "620062",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "проспект Ленина"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "69к1"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, проспект Ленина, 69к1",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "проспект Ленина",
+                                             "Premise": {
+                                                "PremiseNumber": "69к1",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620062"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "проспект Ленина, 69к1",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.616896 56.838479",
+                           "upperCorner": "60.625107 56.842979"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.621001 56.840729"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   },
+   "462": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, ул. Малышева, д. 41 /  ул. Толмачева, д. 1",
+                  "results": "10",
+                  "found": "3"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "exact",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица Толмачёва, 1",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица Толмачёва, 1",
+                              "postal_code": "620075",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица Толмачёва"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "1"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица Толмачёва, 1",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица Толмачёва",
+                                             "Premise": {
+                                                "PremiseNumber": "1",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620075"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица Толмачёва, 1",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.606476 56.83326",
+                           "upperCorner": "60.614686 56.83776"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.610581 56.83551"
+                     }
+                  }
+               },
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "exact",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица Малышева, 1",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица Малышева, 1",
+                              "postal_code": "620014",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица Малышева"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "1"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица Малышева, 1",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица Малышева",
+                                             "Premise": {
+                                                "PremiseNumber": "1",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620014"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица Малышева, 1",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.575232 56.830005",
+                           "upperCorner": "60.583443 56.834506"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.579337 56.832255"
+                     }
+                  }
+               },
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "near",
+                           "text": "Россия, Свердловская область, Екатеринбург, Царская улица, 4",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, Царская улица, 4",
+                              "postal_code": "620075",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "Царская улица"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "4"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, Царская улица, 4",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "Царская улица",
+                                             "Premise": {
+                                                "PremiseNumber": "4",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620075"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "Царская улица, 4",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.604625 56.840759",
+                           "upperCorner": "60.612836 56.845259"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.60873 56.843009"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   },
+   "104": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, ул. 8 Марта, д. 31, литер В",
+                  "results": "10",
+                  "found": "1"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "exact",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица 8 Марта, 31В",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица 8 Марта, 31В",
+                              "postal_code": "620014",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица 8 Марта"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "31В"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица 8 Марта, 31В",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица 8 Марта",
+                                             "Premise": {
+                                                "PremiseNumber": "31В",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620014"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица 8 Марта, 31В",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.597025 56.829419",
+                           "upperCorner": "60.605236 56.83392"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.601131 56.831669"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   },
+   "63": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, ул. Верх-Исетский бульвар, д. 9",
+                  "results": "10",
+                  "found": "1"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "exact",
+                           "text": "Россия, Свердловская область, Екатеринбург, Верх-Исетский бульвар, 9",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, Верх-Исетский бульвар, 9",
+                              "postal_code": "620028",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "Верх-Исетский бульвар"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "9"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, Верх-Исетский бульвар, 9",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "Верх-Исетский бульвар",
+                                             "Premise": {
+                                                "PremiseNumber": "9",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620028"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "Верх-Исетский бульвар, 9",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.572268 56.835136",
+                           "upperCorner": "60.580478 56.839636"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.576373 56.837386"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   },
+   "378": {
+      "response": {
+         "GeoObjectCollection": {
+            "metaDataProperty": {
+               "GeocoderResponseMetaData": {
+                  "request": "Свердловская область, г. Екатеринбург, ул. Вайнера, д. 7",
+                  "results": "10",
+                  "found": "1"
+               }
+            },
+            "featureMember": [
+               {
+                  "GeoObject": {
+                     "metaDataProperty": {
+                        "GeocoderMetaData": {
+                           "precision": "near",
+                           "text": "Россия, Свердловская область, Екатеринбург, улица Вайнера, 9",
+                           "kind": "house",
+                           "Address": {
+                              "country_code": "RU",
+                              "formatted": "Россия, Свердловская область, Екатеринбург, улица Вайнера, 9",
+                              "postal_code": "620014",
+                              "Components": [
+                                 {
+                                    "kind": "country",
+                                    "name": "Россия"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Уральский федеральный округ"
+                                 },
+                                 {
+                                    "kind": "province",
+                                    "name": "Свердловская область"
+                                 },
+                                 {
+                                    "kind": "area",
+                                    "name": "муниципальное образование Город Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "locality",
+                                    "name": "Екатеринбург"
+                                 },
+                                 {
+                                    "kind": "street",
+                                    "name": "улица Вайнера"
+                                 },
+                                 {
+                                    "kind": "house",
+                                    "name": "9"
+                                 }
+                              ]
+                           },
+                           "AddressDetails": {
+                              "Country": {
+                                 "AddressLine": "Россия, Свердловская область, Екатеринбург, улица Вайнера, 9",
+                                 "CountryNameCode": "RU",
+                                 "CountryName": "Россия",
+                                 "AdministrativeArea": {
+                                    "AdministrativeAreaName": "Свердловская область",
+                                    "SubAdministrativeArea": {
+                                       "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                                       "Locality": {
+                                          "LocalityName": "Екатеринбург",
+                                          "Thoroughfare": {
+                                             "ThoroughfareName": "улица Вайнера",
+                                             "Premise": {
+                                                "PremiseNumber": "9",
+                                                "PostalCode": {
+                                                   "PostalCodeNumber": "620014"
+                                                }
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        }
+                     },
+                     "name": "улица Вайнера, 9",
+                     "description": "Екатеринбург, Свердловская область, Россия",
+                     "boundedBy": {
+                        "Envelope": {
+                           "lowerCorner": "60.591698 56.834146",
+                           "upperCorner": "60.599909 56.838647"
+                        }
+                     },
+                     "Point": {
+                        "pos": "60.595804 56.836396"
+                     }
+                  }
+               }
+            ]
+         }
+      }
+   }
+}
